@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Secrets of Ravenwood
 
 A C++17, HTML, and CSS horror adventure. Gameplay is handled by the C++ server, and browser controls use standard POST forms without JavaScript.
@@ -33,3 +34,6 @@ Then open http://localhost:8080. To choose another port, pass it to the server, 
 - Stone door: `1336` (moon 1, three hall riddles, three kitchen fires, founding year ending in 6)
 
 Player state remains in the running server and is associated with a browser cookie. Keep the server running while playing.
+=======
+# Haunted-Mansion
+>>>>>>> 049655265adf8aaa109f3aaa4ad37678a581673f
